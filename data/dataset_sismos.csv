@@ -1,0 +1,475 @@
+data_hora,data,magnitude,profundidade_km,latitude,longitude,localizacao,tipo,tsunami
+2025-11-29 22:47:50.311,2025-11-29,5.8,10.0,-56.5406,147.3093,west of Macquarie Island,earthquake,0
+2025-11-29 08:03:53.146,2025-11-29,5.9,10.0,-52.387,151.8477,west of Macquarie Island,earthquake,0
+2025-11-28 20:06:06.450,2025-11-28,5.8,140.0,15.2847,-92.1007,"4 km WSW of Tectitán, Guatemala",earthquake,0
+2025-11-28 03:30:08.627,2025-11-28,5.6,257.664,-15.3657,-174.8509,"130 km WNW of Hihifo, Tonga",earthquake,0
+2025-11-27 17:11:29.059,2025-11-27,6.0,69.43339538574219,61.56951904296875,-150.75079345703125,"12 km WNW of Susitna, Alaska",earthquake,1
+2025-11-27 04:56:26.540,2025-11-27,6.6,25.388,2.6921,96.0266,"45 km WNW of Sinabang, Indonesia",earthquake,0
+2025-11-23 12:21:17.620,2025-11-23,5.5,3.0,13.588,40.672,"116 km WSW of Edd, Eritrea",earthquake,0
+2025-11-23 08:21:46.286,2025-11-23,5.5,54.82,51.4112,-177.0684,"59 km SSW of Adak, Alaska",earthquake,0
+2025-11-21 22:38:09.124,2025-11-21,5.7,10.0,49.6155,158.6388,"214 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-11-21 12:37:59.558,2025-11-21,5.6,519.151,-24.236,179.9218,south of the Fiji Islands,earthquake,0
+2025-11-21 12:22:03.648,2025-11-21,5.5,10.0,39.6282,143.5446,"137 km E of Miyako, Japan",earthquake,0
+2025-11-20 06:59:44.153,2025-11-20,5.8,128.344,-3.7031,128.3705,"20 km E of Ambon, Indonesia",earthquake,0
+2025-11-14 19:09:04.941,2025-11-14,5.7,11.068,-15.3184,-175.7314,"219 km WNW of Hihifo, Tonga",earthquake,0
+2025-11-13 09:41:28.938,2025-11-13,5.7,10.0,-56.6966,-142.0685,Pacific-Antarctic Ridge,earthquake,0
+2025-11-12 06:03:28.885,2025-11-12,5.7,10.0,73.2435,6.9306,Greenland Sea,earthquake,0
+2025-11-10 07:23:18.202,2025-11-10,6.0,11.158,39.542,143.3467,"120 km E of Yamada, Japan",earthquake,0
+2025-11-09 09:28:23.919,2025-11-09,5.7,10.0,39.6288,143.5049,"134 km E of Miyako, Japan",earthquake,0
+2025-11-09 08:54:36.991,2025-11-09,6.4,10.0,39.4662,143.3632,"121 km E of Yamada, Japan",earthquake,0
+2025-11-09 08:34:01.761,2025-11-09,5.6,10.0,39.4641,143.4138,"125 km E of Yamada, Japan",earthquake,0
+2025-11-09 08:14:53.100,2025-11-09,5.9,10.0,39.3606,143.4278,"127 km E of Yamada, Japan",earthquake,0
+2025-11-09 08:11:25.615,2025-11-09,5.5,10.0,39.5755,143.1905,"107 km E of Yamada, Japan",earthquake,0
+2025-11-09 08:03:37.808,2025-11-09,6.8,10.0,39.3957,143.4108,"126 km E of Yamada, Japan",earthquake,1
+2025-11-09 06:38:31.510,2025-11-09,5.5,133.186,12.5088,93.7981,"147 km NE of Port Blair, India",earthquake,0
+2025-11-08 22:15:08.959,2025-11-08,5.6,19.236,39.4925,143.4062,"125 km E of Yamada, Japan",earthquake,0
+2025-11-08 04:15:03.529,2025-11-08,5.6,495.252,-18.5429,-177.7963,Fiji region,earthquake,0
+2025-11-07 12:04:30.567,2025-11-07,5.6,10.0,27.9761,-111.9866,"75 km NNE of Santa Rosalía, Mexico",earthquake,0
+2025-11-05 22:03:49.280,2025-11-05,5.7,33.229,-58.0489,-25.2007,South Sandwich Islands region,earthquake,0
+2025-11-04 23:49:27.228,2025-11-04,5.7,71.01,49.7248,155.8574,"107 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-11-04 23:32:23.570,2025-11-04,5.9,120.323,-0.1011,123.0628,"70 km S of Gorontalo, Indonesia",earthquake,0
+2025-11-04 23:28:59.236,2025-11-04,6.0,28.0,52.1115,160.1897,"149 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-11-04 07:37:25.292,2025-11-04,5.9,89.075,12.4034,143.1544,"190 km WSW of Merizo Village, Guam",earthquake,0
+2025-11-04 04:45:30.030,2025-11-04,5.5,21.005,52.317,160.4773,"150 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-11-04 03:45:09.865,2025-11-04,5.9,20.0,52.1744,160.4064,"155 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-11-03 15:51:54.851,2025-11-03,5.5,24.772,-27.4251,-71.4617,"111 km W of Copiapó, Chile",earthquake,0
+2025-11-03 08:44:43.724,2025-11-03,6.1,29.0,52.2301,160.399,"151 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-11-03 07:11:14.515,2025-11-03,5.7,35.0,52.1303,160.2121,"149 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-11-03 07:10:26.406,2025-11-03,5.9,35.0,52.2365,160.1251,"136 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-11-02 20:29:02.010,2025-11-02,6.2,28.0,36.5499,67.3742,"29 km SE of Mazār-e Sharīf, Afghanistan",earthquake,0
+2025-11-02 19:06:53.955,2025-11-02,5.5,114.908,9.6799,122.7895,"13 km WSW of Mabinay, Philippines",earthquake,0
+2025-10-31 20:53:24.802,2025-10-31,5.9,10.0,-45.2659,96.9497,southeast Indian Ridge,earthquake,0
+2025-10-30 08:52:04.371,2025-10-30,5.5,288.531,-27.447,-178.3345,Kermadec Islands region,earthquake,0
+2025-10-29 06:16:45.640,2025-10-29,5.5,10.0,-47.1498,-12.2776,southern Mid-Atlantic Ridge,earthquake,0
+2025-10-28 14:40:18.481,2025-10-28,6.4,142.0,-6.7001,129.9887,Banda Sea,earthquake,0
+2025-10-28 07:06:24.789,2025-10-28,5.6,35.0,50.3137,157.4346,"101 km ESE of Severo-Kuril’sk, Russia",earthquake,0
+2025-10-27 19:48:28.789,2025-10-27,6.0,8.0,39.1959,28.2468,"7 km SE of Sındırgı, Turkey",earthquake,0
+2025-10-27 12:54:59.329,2025-10-27,6.0,10.0,16.5417,-59.5342,"166 km E of Beauséjour, Guadeloupe",earthquake,0
+2025-10-27 12:38:40.405,2025-10-27,6.5,9.0,16.5416,-59.5832,"161 km E of Beauséjour, Guadeloupe",earthquake,1
+2025-10-26 17:04:25.617,2025-10-26,6.2,75.0,-8.8524,123.9887,"57 km NW of Pante Makasar, Timor Leste",earthquake,0
+2025-10-25 23:28:02.544,2025-10-25,6.0,34.0,-12.3757,166.4018,"194 km SSE of Lata, Solomon Islands",earthquake,0
+2025-10-24 16:40:11.065,2025-10-24,5.7,49.866,42.9633,145.5515,"40 km S of Nemuro, Japan",earthquake,0
+2025-10-23 11:46:09.982,2025-10-23,5.6,87.273,-6.2447,130.9437,"211 km WSW of Tual, Indonesia",earthquake,0
+2025-10-23 02:31:27.147,2025-10-23,5.6,10.0,51.3426,159.4599,"190 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-10-22 03:57:08.884,2025-10-22,5.9,42.092,9.4167,-84.1787,"2 km SW of Quepos, Costa Rica",earthquake,0
+2025-10-22 00:05:44.662,2025-10-22,5.5,78.556,-3.6087,-79.8424,"19 km WNW of Piñas, Ecuador",earthquake,0
+2025-10-20 11:35:51.010,2025-10-20,5.8,10.0,7.0096,127.3153,"87 km ESE of Santiago, Philippines",earthquake,0
+2025-10-17 12:15:03.739,2025-10-17,5.5,8.0,36.7572,72.8064,"48 km ESE of Khandūd, Afghanistan",earthquake,0
+2025-10-17 04:13:07.824,2025-10-17,5.5,51.302,-2.2365,139.0732,"177 km WNW of Abepura, Indonesia",earthquake,0
+2025-10-16 23:03:12.673,2025-10-16,6.0,32.0,9.7909,126.1163,"3 km N of Union, Philippines",earthquake,0
+2025-10-16 05:48:55.498,2025-10-16,6.5,33.301,-2.1588,138.9374,"194 km WNW of Abepura, Indonesia",earthquake,1
+2025-10-16 01:42:32.318,2025-10-16,6.3,8.0,-59.9652,-61.8655,Drake Passage,earthquake,1
+2025-10-15 11:43:41.062,2025-10-15,5.6,51.007,-30.7275,-71.4575,"28 km WSW of Ovalle, Chile",earthquake,0
+2025-10-14 02:00:11.014,2025-10-14,5.5,35.0,7.3744,127.0611,"53 km E of Baculin, Philippines",earthquake,0
+2025-10-13 11:11:00.607,2025-10-13,5.9,10.0,7.2599,141.5991,"State of Yap, Federated States of Micronesia",earthquake,0
+2025-10-13 01:10:17.001,2025-10-13,5.5,60.257,48.8917,154.9013,"217 km SSW of Severo-Kuril’sk, Russia",earthquake,0
+2025-10-12 17:05:59.519,2025-10-12,5.8,10.0,10.9582,123.9779,"3 km S of Lapaz, Philippines",earthquake,0
+2025-10-11 16:18:25.648,2025-10-11,5.6,10.0,13.8111,39.8762,"55 km NE of Mek'ele, Ethiopia",earthquake,0
+2025-10-11 14:33:00.296,2025-10-11,6.0,76.991,8.9187,126.219,"7 km W of Bacolod, Philippines",earthquake,0
+2025-10-11 13:07:59.823,2025-10-11,5.5,49.408,-56.2655,-26.4302,South Sandwich Islands region,earthquake,0
+2025-10-11 12:25:58.928,2025-10-11,5.8,70.085,50.285,156.694,"59 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-10-11 10:27:24.262,2025-10-11,5.5,63.818,7.2906,126.7939,"24 km E of Santiago, Philippines",earthquake,0
+2025-10-11 08:06:44.012,2025-10-11,5.5,48.552,-56.1992,-26.3864,South Sandwich Islands region,earthquake,0
+2025-10-11 03:08:44.747,2025-10-11,5.7,75.086,53.2897,159.6701,"74 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-10-10 21:28:42.322,2025-10-10,5.7,10.0,-60.0663,-62.3619,Drake Passage,earthquake,0
+2025-10-10 20:29:20.206,2025-10-10,7.6,6.505,-60.1885,-61.8238,Drake Passage,earthquake,1
+2025-10-10 11:16:01.408,2025-10-10,5.6,66.9,50.3065,156.5865,"52 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-10-10 11:12:05.407,2025-10-10,6.7,47.0,7.2127,126.6578,"12 km SE of Santiago, Philippines",earthquake,1
+2025-10-10 09:43:40.474,2025-10-10,5.6,10.0,11.4293,141.6499,"221 km NE of Fais, Micronesia",earthquake,0
+2025-10-10 03:32:16.463,2025-10-10,5.5,72.22,7.073,126.8243,"35 km ESE of Manay, Philippines",earthquake,0
+2025-10-10 02:11:45.318,2025-10-10,5.6,67.847,7.0145,126.7102,"27 km ESE of San Ignacio, Philippines",earthquake,0
+2025-10-10 02:08:10.652,2025-10-10,6.3,10.0,-3.0764,147.9714,"139 km SE of Lorengau, Papua New Guinea",earthquake,0
+2025-10-10 01:51:15.525,2025-10-10,5.9,63.43,7.0654,126.8348,"36 km ESE of Manay, Philippines",earthquake,0
+2025-10-10 01:43:59.585,2025-10-10,7.4,59.425,7.2866,126.6902,"12 km E of Santiago, Philippines",earthquake,1
+2025-10-09 13:28:45.412,2025-10-09,6.1,63.734,51.7161,158.2022,"120 km E of Ozernovskiy, Russia",earthquake,0
+2025-10-09 05:17:40.636,2025-10-09,5.5,10.0,30.8749,99.8995,"207 km N of Daocheng, China",earthquake,0
+2025-10-07 22:36:21.404,2025-10-07,5.7,35.0,-15.612,168.1577,"95 km ENE of Norsup, Vanuatu",earthquake,0
+2025-10-07 11:05:17.691,2025-10-07,6.6,103.933,-6.7555,146.815,"20 km W of Lae, Papua New Guinea",earthquake,1
+2025-10-06 12:08:41.601,2025-10-06,5.6,570.418,-21.1646,175.4906,south of the Fiji Islands,earthquake,0
+2025-10-04 15:21:10.042,2025-10-04,5.9,54.164,37.4213,141.5524,"48 km ENE of Tomioka, Japan",earthquake,0
+2025-10-04 09:02:02.987,2025-10-04,5.5,10.0,8.2864,-103.8516,northern East Pacific Rise,earthquake,0
+2025-10-03 16:07:44.844,2025-10-03,6.1,19.0,51.6275,159.9083,"177 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-10-02 21:37:57.993,2025-10-02,5.7,559.2,-27.0643,-63.3875,"15 km WSW of El Hoyo, Argentina",earthquake,0
+2025-10-01 13:49:50.530,2025-10-01,5.6,155.648,-7.3477,128.336,"196 km NE of Lospalos, Timor Leste",earthquake,0
+2025-09-30 16:49:44.252,2025-09-30,6.0,24.587,-7.204,114.1854,"31 km ESE of Kalianget, Indonesia",earthquake,0
+2025-09-30 13:59:43.322,2025-09-30,6.9,10.0,11.1344,124.1444,"12 km E of Bateria, Philippines",earthquake,1
+2025-09-29 22:07:23.519,2025-09-29,5.5,42.0,52.89,160.0058,"94 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-28 08:53:01.242,2025-09-28,5.5,573.583,-23.8765,178.8114,south of the Fiji Islands,earthquake,0
+2025-09-27 08:10:52.283,2025-09-27,5.5,67.813,-13.7832,166.6756,"95 km W of Sola, Vanuatu",earthquake,0
+2025-09-26 06:45:28.067,2025-09-26,5.9,10.0,43.4524,-127.3203,"239 km W of Bandon, Oregon",earthquake,1
+2025-09-25 10:16:24.727,2025-09-25,5.7,10.0,17.9849,-105.9257,"185 km SSW of Emiliano Zapata, Mexico",earthquake,0
+2025-09-25 03:51:39.539,2025-09-25,6.3,14.0,9.9312,-70.705,"26 km ENE of Mene Grande, Venezuela",earthquake,1
+2025-09-24 22:21:55.745,2025-09-24,6.2,9.0,9.8846,-70.856,"8 km ENE of Mene Grande, Venezuela",earthquake,1
+2025-09-23 17:39:19.799,2025-09-23,5.6,12.0,-15.7737,-75.2969,"47 km SSW of San Juan, Peru",earthquake,0
+2025-09-22 18:18:53.733,2025-09-22,5.6,17.0,51.5235,159.4482,"172 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-09-22 16:28:54.550,2025-09-22,5.5,17.0,51.5296,159.5182,"173 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-09-21 09:30:27.862,2025-09-21,5.5,30.0,51.1987,-178.0221,"122 km SW of Adak, Alaska",earthquake,1
+2025-09-21 01:13:35.389,2025-09-21,5.6,10.0,52.9362,161.0947,"166 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-19 15:45:35.090,2025-09-19,5.9,13.0,52.9112,161.2436,"176 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-19 14:55:40.913,2025-09-19,6.0,58.287,51.2463,157.8629,"98 km ESE of Ozernovskiy, Russia",earthquake,0
+2025-09-19 14:55:24.833,2025-09-19,5.9,45.0,51.1828,157.9936,"109 km ESE of Ozernovskiy, Russia",earthquake,0
+2025-09-19 13:27:04.406,2025-09-19,5.5,10.0,52.2418,160.6452,"164 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-19 04:55:56.775,2025-09-19,5.5,96.269,-20.2393,-69.258,"42 km ENE of La Tirana, Chile",earthquake,0
+2025-09-18 22:37:10.562,2025-09-18,5.5,35.0,53.0067,160.8847,"151 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-18 21:37:55.577,2025-09-18,5.7,47.898,52.9373,160.7052,"140 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-18 20:17:44.835,2025-09-18,5.5,35.714,52.9284,160.7605,"144 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-18 20:03:02.493,2025-09-18,5.6,10.0,52.4163,160.6915,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-18 19:26:37.834,2025-09-18,5.5,10.0,52.7596,160.965,"160 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-18 19:08:19.904,2025-09-18,5.8,10.0,52.9863,160.7735,"144 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-18 18:58:15.088,2025-09-18,7.8,27.0,53.1281,160.7949,"145 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,1
+2025-09-18 18:19:49.220,2025-09-18,6.0,28.0,-3.5961,135.4658,"26 km S of Nabire, Indonesia",earthquake,0
+2025-09-16 16:59:50.035,2025-09-16,6.0,63.336,-5.4364,153.7947,"207 km SE of Kokopo, Papua New Guinea",earthquake,0
+2025-09-15 16:34:35.213,2025-09-15,6.0,15.0,52.6973,160.6791,"144 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-09-14 11:11:51.373,2025-09-14,5.5,29.0,26.7097,92.2103,"11 km ESE of Udalguri, India",earthquake,0
+2025-09-13 02:37:56.761,2025-09-13,7.4,58.0,53.1969,160.1901,"105 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,1
+2025-09-12 17:46:45.860,2025-09-12,5.6,10.0,-39.4342,-15.621,Tristan da Cunha region,earthquake,0
+2025-09-09 04:08:01.584,2025-09-09,5.7,10.0,42.36,-126.5618,"174 km WSW of Port Orford, Oregon",earthquake,1
+2025-09-08 21:47:48.117,2025-09-08,6.4,10.0,-21.0025,173.7046,Vanuatu region,earthquake,1
+2025-09-04 16:56:26.361,2025-09-04,5.6,16.505,34.6972,70.758,"40 km WSW of Asadābād, Afghanistan",earthquake,0
+2025-09-04 04:10:19.917,2025-09-04,5.9,182.0,-24.1304,-67.1572,"85 km W of San Antonio de los Cobres, Argentina",earthquake,0
+2025-09-03 20:57:47.645,2025-09-03,5.9,18.0,52.207,-169.5044,"92 km SSW of Nikolski, Alaska",earthquake,1
+2025-09-01 11:02:09.766,2025-09-01,5.6,12.0,56.2482,-151.9738,"133 km SE of Old Harbor, Alaska",earthquake,1
+2025-08-31 19:17:34.124,2025-08-31,6.0,8.0,34.7106,70.8087,"35 km WSW of Asadābād, Afghanistan",earthquake,0
+2025-08-31 16:24:27.451,2025-08-31,5.6,67.461,-58.3758,-25.6202,South Sandwich Islands region,earthquake,0
+2025-08-30 20:09:27.619,2025-08-30,5.5,60.034,-11.5525,166.3607,"110 km SE of Lata, Solomon Islands",earthquake,0
+2025-08-29 16:29:22.449,2025-08-29,5.5,51.698,38.4534,142.0646,"53 km E of Onagawa Chō, Japan",earthquake,0
+2025-08-28 11:07:48.125,2025-08-28,5.9,130.0,52.1251,179.9386,"237 km W of Adak, Alaska",earthquake,1
+2025-08-27 03:49:50.441,2025-08-27,6.0,40.0,50.7675,157.4273,"92 km E of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-26 01:32:50.378,2025-08-26,5.6,614.102,-17.8109,-178.5196,"230 km E of Levuka, Fiji",earthquake,0
+2025-08-25 22:13:11.671,2025-08-25,5.6,31.0,49.1051,156.0996,"174 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-25 06:48:34.819,2025-08-25,6.1,9.0,49.3726,160.0428,east of the Kuril Islands,earthquake,0
+2025-08-23 12:24:53.914,2025-08-23,5.8,18.0,2.0106,96.5997,"57 km SSE of Sinabang, Indonesia",earthquake,0
+2025-08-23 09:14:22.210,2025-08-23,6.0,17.0,13.0601,-90.4343,"88 km SW of Acajutla, El Salvador",earthquake,0
+2025-08-23 00:10:54.678,2025-08-23,5.5,10.0,-24.6736,-175.8881,south of Tonga,earthquake,0
+2025-08-22 02:16:18.246,2025-08-22,7.5,10.0,-60.3187,-61.9221,2025 Southern Drake Passage Earthquake,earthquake,1
+2025-08-21 22:34:44.484,2025-08-21,5.6,40.0,38.757,142.309,"62 km SE of Ōfunato, Japan",earthquake,0
+2025-08-21 11:21:03.945,2025-08-21,5.8,10.0,51.8817,160.125,"165 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-08-18 23:03:09.204,2025-08-18,5.6,12.0,-24.3735,-175.9688,south of Tonga,earthquake,0
+2025-08-18 07:10:12.806,2025-08-18,5.6,10.0,-44.7541,-79.9408,"Off the coast of Aisen, Chile",earthquake,0
+2025-08-17 15:03:12.628,2025-08-17,5.5,20.1,2.1675,127.1307,"109 km WNW of Tobelo, Indonesia",earthquake,0
+2025-08-16 22:38:52.030,2025-08-16,5.8,8.0,-1.2749,120.7206,"13 km NNW of Poso, Indonesia",earthquake,0
+2025-08-16 21:13:14.873,2025-08-16,5.5,30.0,32.0131,131.811,"32 km ESE of Takanabe, Japan",earthquake,0
+2025-08-16 12:08:24.075,2025-08-16,5.6,11.0,-23.1833,170.8077,southeast of the Loyalty Islands,earthquake,0
+2025-08-15 10:11:52.133,2025-08-15,5.7,43.0,52.7866,159.9421,"93 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-08-14 16:22:34.235,2025-08-14,6.3,44.99,-11.6933,166.2048,"115 km SSE of Lata, Solomon Islands",earthquake,0
+2025-08-14 04:38:16.447,2025-08-14,5.6,24.0,-18.4141,-172.5723,"151 km E of Neiafu, Tonga",earthquake,0
+2025-08-12 13:41:28.882,2025-08-12,5.6,36.0,-15.2362,-173.3285,"93 km NNE of Hihifo, Tonga",earthquake,0
+2025-08-12 08:24:23.409,2025-08-12,6.3,14.0,-2.0302,138.966,"195 km WNW of Abepura, Indonesia",earthquake,1
+2025-08-11 02:20:59.773,2025-08-11,5.8,9.0,14.8228,-94.3855,"138 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,0
+2025-08-10 16:53:47.260,2025-08-10,6.1,10.0,39.3709,28.0168,"10 km WSW of Bigadiç, Turkey",earthquake,0
+2025-08-10 04:56:49.867,2025-08-10,5.9,16.0,12.9438,145.6375,"103 km ESE of Inarajan Village, Guam",earthquake,0
+2025-08-09 20:40:57.876,2025-08-09,5.9,9.0,13.48,-92.3994,"104 km SSW of Champerico, Guatemala",earthquake,0
+2025-08-09 14:04:07.171,2025-08-09,6.0,11.0,50.0723,159.7364,"265 km ESE of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-07 16:33:59.672,2025-08-07,5.9,19.0,-4.2241,152.9274,"74 km E of Kokopo, Papua New Guinea",earthquake,0
+2025-08-07 07:45:05.200,2025-08-07,5.5,113.505,24.6133,122.9664,"16 km NNW of Yonakuni, Japan",earthquake,0
+2025-08-06 10:43:11.088,2025-08-06,5.5,10.0,51.4249,159.6929,"189 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-08-06 10:35:08.011,2025-08-06,5.8,16.0,51.5638,159.448,"167 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-08-05 09:23:51.280,2025-08-05,5.7,168.0,18.1665,-68.3226,"38 km SE of Boca de Yuma, Dominican Republic",earthquake,0
+2025-08-05 05:06:47.092,2025-08-05,5.6,76.745,28.0709,59.0117,"131 km SSE of Bam, Iran",earthquake,0
+2025-08-04 04:20:54.562,2025-08-04,6.2,16.0,48.8586,156.3666,"202 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-03 18:07:33.204,2025-08-03,5.6,9.0,52.4978,160.6678,"151 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-08-03 14:26:45.416,2025-08-03,5.6,10.0,52.4283,160.6912,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-08-03 05:37:55.148,2025-08-03,6.8,30.0,50.5853,157.8643,"123 km E of Severo-Kuril’sk, Russia",earthquake,1
+2025-08-03 04:57:10.505,2025-08-03,6.3,10.0,-55.2284,-128.6508,Pacific-Antarctic Ridge,earthquake,0
+2025-08-03 02:26:17.530,2025-08-03,5.8,10.0,-55.3641,-127.8359,Pacific-Antarctic Ridge,earthquake,0
+2025-08-02 17:58:45.419,2025-08-02,5.8,62.566,17.1124,-96.2645,"4 km S of Xagacía, Mexico",earthquake,0
+2025-08-02 14:14:03.328,2025-08-02,6.0,17.0,51.5911,159.4631,"165 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-08-01 20:08:12.598,2025-08-01,5.6,79.264,50.4404,156.3974,"32 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-01 18:53:10.397,2025-08-01,5.5,10.0,52.7977,161.4392,"191 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-08-01 18:20:45.177,2025-08-01,6.1,10.0,50.2099,159.0659,"215 km ESE of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-01 13:44:14.297,2025-08-01,5.6,23.0,51.9877,158.3749,"104 km S of Vilyuchinsk, Russia",earthquake,0
+2025-08-01 11:57:23.128,2025-08-01,5.9,19.0,51.7269,160.0431,"174 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-08-01 10:54:58.030,2025-08-01,5.7,23.0,50.527,157.8481,"122 km E of Severo-Kuril’sk, Russia",earthquake,0
+2025-08-01 08:34:25.369,2025-08-01,5.7,28.0,52.8059,160.146,"106 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-31 20:36:03.253,2025-07-31,5.7,14.0,52.5859,160.9806,"167 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-31 07:42:42.827,2025-07-31,5.5,43.871,49.871,157.4706,"131 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-31 05:31:25.745,2025-07-31,5.6,48.152,52.6604,160.6055,"140 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-31 05:27:14.789,2025-07-31,6.2,15.0,49.5,158.6499,"222 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 23:15:30.093,2025-07-30,5.8,10.0,52.4118,160.7681,"161 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-30 21:51:11.837,2025-07-30,5.7,17.0,52.2321,160.2649,"144 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-30 21:13:01.237,2025-07-30,5.6,10.0,49.4969,158.6625,"223 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 16:57:34.771,2025-07-30,5.6,10.0,49.8958,157.5715,"134 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 16:47:12.839,2025-07-30,5.7,10.0,50.4224,159.7368,"256 km ESE of Ozernovskiy, Russia",earthquake,0
+2025-07-30 16:07:46.668,2025-07-30,6.0,35.0,49.6696,157.2746,"138 km SE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 14:47:43.816,2025-07-30,5.9,23.309,50.0671,157.7699,"135 km ESE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 09:56:13.780,2025-07-30,6.1,10.445,51.6041,160.0013,"183 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 09:24:39.757,2025-07-30,5.5,126.3,-58.926,-26.2034,South Sandwich Islands region,earthquake,0
+2025-07-30 07:34:42.923,2025-07-30,5.6,10.0,48.8612,156.301,"202 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 05:05:15.426,2025-07-30,5.6,61.759,50.7377,157.8617,"122 km E of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 04:25:14.790,2025-07-30,5.6,35.0,49.3297,156.5319,"152 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 03:25:54.468,2025-07-30,5.5,35.0,51.8385,159.1797,"132 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 03:13:56.616,2025-07-30,5.5,24.949,52.8756,160.8815,"152 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-30 03:13:25.319,2025-07-30,5.5,35.0,51.7321,159.309,"146 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 02:30:40.490,2025-07-30,5.9,37.52,50.6541,157.4441,"93 km E of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 02:27:30.416,2025-07-30,5.7,10.0,52.1134,162.0791,"256 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-30 01:46:52.665,2025-07-30,5.5,35.0,50.1868,157.2929,"99 km ESE of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-30 01:38:16.776,2025-07-30,5.6,35.0,51.0169,158.3088,"136 km ESE of Ozernovskiy, Russia",earthquake,0
+2025-07-30 01:03:22.907,2025-07-30,5.7,35.0,51.6577,158.8083,"144 km S of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 00:58:38.149,2025-07-30,5.7,10.0,51.585,159.8996,"181 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 00:35:26.004,2025-07-30,5.7,35.0,51.9131,159.255,"127 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 00:16:06.520,2025-07-30,6.2,35.0,52.1048,159.692,"126 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 00:12:20.745,2025-07-30,5.8,25.681,51.7857,159.8227,"159 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-07-30 00:09:58.961,2025-07-30,6.9,36.622,52.1946,159.8008,"125 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-29 23:54:58.717,2025-07-29,5.7,10.0,50.8049,158.7836,"177 km ESE of Ozernovskiy, Russia",earthquake,0
+2025-07-29 23:48:17.525,2025-07-29,5.6,10.0,51.7599,160.1586,"176 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-07-29 23:46:37.801,2025-07-29,5.7,35.0,49.4264,156.1591,"138 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-29 23:40:27.004,2025-07-29,5.7,10.0,49.2988,156.5191,"155 km S of Severo-Kuril’sk, Russia",earthquake,0
+2025-07-29 23:38:56.675,2025-07-29,5.8,10.0,51.0614,159.0547,"184 km ESE of Ozernovskiy, Russia",earthquake,0
+2025-07-29 23:38:28.604,2025-07-29,5.7,35.0,52.3144,159.5397,"103 km SE of Vilyuchinsk, Russia",earthquake,0
+2025-07-29 23:37:34.403,2025-07-29,6.0,35.0,51.5092,159.126,"165 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-07-29 23:36:01.341,2025-07-29,6.0,35.0,51.7541,158.2503,"124 km ENE of Ozernovskiy, Russia",earthquake,0
+2025-07-29 23:34:53.625,2025-07-29,5.9,35.0,51.8593,159.121,"128 km SSE of Vilyuchinsk, Russia",earthquake,0
+2025-07-29 23:31:25.020,2025-07-29,5.9,42.734,53.665,160.4312,"137 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-29 23:30:44.566,2025-07-29,6.1,25.423,52.6498,159.5787,"78 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-29 23:30:03.032,2025-07-29,6.3,16.375,52.5195,159.7031,"94 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-29 23:24:52.483,2025-07-29,8.8,35.0,52.4948,160.2395,"2025 Kamchatka Peninsula, Russia Earthquake",earthquake,1
+2025-07-29 21:25:23.916,2025-07-29,5.7,10.0,14.0663,-89.8711,"6 km SE of Comapa, Guatemala",earthquake,0
+2025-07-29 21:21:47.885,2025-07-29,5.6,11.913,14.0993,-89.791,"4 km WNW of Jerez, Guatemala",earthquake,0
+2025-07-29 17:53:40.918,2025-07-29,6.6,553.0,-23.4497,178.858,south of the Fiji Islands,earthquake,1
+2025-07-29 17:46:37.267,2025-07-29,5.8,550.0,-23.5094,178.9624,south of the Fiji Islands,earthquake,0
+2025-07-28 22:15:20.890,2025-07-28,5.8,10.0,-57.9072,157.6187,Macquarie Island region,earthquake,0
+2025-07-28 22:10:35.109,2025-07-28,7.0,31.0,-57.605,157.0388,Macquarie Island region,earthquake,1
+2025-07-28 18:41:50.299,2025-07-28,6.4,21.0,6.6907,93.0637,"264 km WNW of Sabang, Indonesia",earthquake,0
+2025-07-27 09:30:37.512,2025-07-27,5.6,10.0,-60.0878,-18.745,east of the South Sandwich Islands,earthquake,0
+2025-07-26 16:15:04.546,2025-07-26,6.2,17.0,-57.7718,157.7252,Macquarie Island region,earthquake,1
+2025-07-26 05:31:46.303,2025-07-26,5.6,10.0,-0.3955,131.5362,"61 km NNE of Sorong, Indonesia",earthquake,0
+2025-07-25 21:29:58.920,2025-07-25,5.8,80.0,2.0241,126.873,"130 km WNW of Tobelo, Indonesia",earthquake,0
+2025-07-25 12:45:55.345,2025-07-25,5.7,10.0,-55.3251,146.4375,west of Macquarie Island,earthquake,0
+2025-07-25 11:22:02.292,2025-07-25,6.2,10.0,-55.4066,146.5854,west of Macquarie Island,earthquake,0
+2025-07-25 01:29:02.957,2025-07-25,5.5,10.0,37.7163,-18.008,Azores-Cape St. Vincent Ridge,earthquake,0
+2025-07-24 23:37:56.601,2025-07-24,6.6,314.151,-14.9093,-175.7016,"187 km SSE of Mata-Utu, Wallis and Futuna",earthquake,1
+2025-07-24 22:39:24.305,2025-07-24,5.8,10.0,52.9584,161.0863,"165 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-24 22:37:27.147,2025-07-24,6.0,14.0,53.0151,161.0626,"163 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-24 16:37:18.726,2025-07-24,5.7,108.0,-4.2084,143.7515,"38 km WSW of Angoram, Papua New Guinea",earthquake,0
+2025-07-24 13:08:16.319,2025-07-24,5.6,10.0,-2.0235,120.66,"69 km NNE of Masamba, Indonesia",earthquake,0
+2025-07-24 13:06:57.472,2025-07-24,5.5,10.0,-1.9763,120.7566,"64 km S of Poso, Indonesia",earthquake,0
+2025-07-23 20:50:43.792,2025-07-23,6.3,142.0,0.4411,122.0874,"109 km W of Gorontalo, Indonesia",earthquake,0
+2025-07-23 03:24:00.770,2025-07-23,5.6,532.691,-23.4563,-179.9105,south of the Fiji Islands,earthquake,0
+2025-07-22 05:04:08.123,2025-07-22,5.5,10.0,-4.827,68.7987,Chagos Archipelago region,earthquake,0
+2025-07-22 01:59:28.404,2025-07-22,6.0,12.308,52.4133,160.6453,"154 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-21 16:41:07.858,2025-07-21,5.8,94.0,-5.8623,146.6039,"94 km ENE of Kainantu, Papua New Guinea",earthquake,0
+2025-07-20 22:28:00.041,2025-07-20,6.2,40.0,54.6051,-159.8382,"91 km SSE of Sand Point, Alaska",earthquake,1
+2025-07-20 17:10:20.329,2025-07-20,5.5,10.0,52.8429,160.5055,"128 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 07:26:17.432,2025-07-20,5.9,10.0,52.9657,161.0597,"163 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 07:23:02.065,2025-07-20,6.5,34.991,52.8915,160.7461,"143 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 07:12:58.030,2025-07-20,5.7,10.0,52.7333,160.9824,"162 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 07:09:47.134,2025-07-20,5.6,10.0,52.8415,161.0175,"162 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 07:07:42.573,2025-07-20,6.6,10.0,52.6981,160.8332,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 06:56:03.710,2025-07-20,5.6,10.0,52.6641,160.7552,"150 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,0
+2025-07-20 06:49:04.327,2025-07-20,7.4,34.0,52.8301,160.6816,"2025 Eastern Kamchatka, Russia Earthquake",earthquake,1
+2025-07-20 06:28:17.860,2025-07-20,6.6,23.0,52.9286,160.6233,"134 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,1
+2025-07-20 05:45:33.448,2025-07-20,5.5,45.853,19.6495,121.5052,"100 km SSW of Basco, Philippines",earthquake,0
+2025-07-19 15:55:07.768,2025-07-19,5.6,10.0,8.3465,-103.0158,northern East Pacific Rise,earthquake,0
+2025-07-17 09:04:25.461,2025-07-17,5.6,24.0,-10.1195,119.1925,"76 km S of Tambolaka, Indonesia",earthquake,0
+2025-07-17 04:30:37.038,2025-07-17,5.6,35.0,54.5012,-160.1181,"96 km SSE of Sand Point, Alaska",earthquake,1
+2025-07-16 20:37:41.667,2025-07-16,7.3,38.0,54.5652,-160.4689,"2025 Sand Point, Alaska Earthquake",earthquake,1
+2025-07-15 17:15:55.394,2025-07-15,5.8,8.0,83.2703,-33.136,near the north coast of Greenland,earthquake,0
+2025-07-15 09:55:01.981,2025-07-15,5.7,48.15,-30.0661,-177.9432,"Kermadec Islands, New Zealand",earthquake,0
+2025-07-14 21:37:59.420,2025-07-14,5.8,74.0,46.5459,151.4305,Kuril Islands,earthquake,0
+2025-07-14 17:16:49.051,2025-07-14,6.2,10.0,6.1706,-82.7372,"206 km S of Burica, Panama",earthquake,1
+2025-07-14 05:49:58.119,2025-07-14,6.7,70.687,-6.2201,131.2331,"180 km WSW of Tual, Indonesia",earthquake,1
+2025-07-08 21:41:31.063,2025-07-08,5.7,10.0,14.4503,-90.6483,"3 km SSW of Amatitlán, Guatemala",earthquake,0
+2025-07-07 12:53:44.013,2025-07-07,6.2,22.0,-47.1735,165.4962,"213 km WSW of Riverton, New Zealand",earthquake,0
+2025-07-06 20:31:42.999,2025-07-06,5.5,10.0,-20.9353,-174.3501,"77 km NE of ‘Ohonua, Tonga",earthquake,0
+2025-07-06 05:07:02.820,2025-07-06,5.5,10.0,29.3813,129.5412,"103 km N of Tatsugō, Japan",earthquake,0
+2025-07-05 19:42:20.755,2025-07-05,5.5,10.0,6.2844,95.0881,"50 km NNW of Sabang, Indonesia",earthquake,0
+2025-07-04 15:47:45.649,2025-07-04,5.6,10.0,-57.0542,-67.4161,"256 km SSE of Ushuaia, Argentina",earthquake,0
+2025-07-03 07:13:00.356,2025-07-03,5.5,10.0,29.3808,129.4093,"104 km N of Tatsugō, Japan",earthquake,0
+2025-07-02 07:15:26.742,2025-07-02,5.6,526.92,-17.6546,-178.9462,"189 km ENE of Levuka, Fiji",earthquake,0
+2025-07-02 06:26:48.945,2025-07-02,5.6,10.0,29.2518,129.1665,"98 km NNW of Tatsugō, Japan",earthquake,0
+2025-07-02 01:39:39.205,2025-07-02,5.5,10.0,-33.6025,-72.5628,"88 km W of San Antonio, Chile",earthquake,0
+2025-06-28 08:32:20.957,2025-06-28,6.6,10.0,-60.9793,-38.9672,Scotia Sea,earthquake,1
+2025-06-28 04:17:08.545,2025-06-28,5.5,229.0,-19.8818,-176.0335,"161 km NNW of Houma, Tonga",earthquake,0
+2025-06-27 23:07:10.371,2025-06-27,6.0,99.77,5.2888,126.0425,"65 km E of Sarangani, Philippines",earthquake,0
+2025-06-25 22:16:13.700,2025-06-25,6.2,10.0,-35.7221,-17.0441,southern Mid-Atlantic Ridge,earthquake,0
+2025-06-24 02:45:43.620,2025-06-24,5.7,68.0,19.2245,-68.1103,"77 km NNE of Punta Cana, Dominican Republic",earthquake,0
+2025-06-24 01:58:41.616,2025-06-24,5.5,39.859,-10.9655,162.6253,"95 km SE of Kirakira, Solomon Islands",earthquake,0
+2025-06-24 01:58:06.248,2025-06-24,6.2,10.0,7.9765,129.9606,east of the Philippine Islands,earthquake,0
+2025-06-21 21:23:18.562,2025-06-21,6.0,18.0,42.8951,146.4037,"82 km SE of Nemuro, Japan",earthquake,0
+2025-06-19 16:37:42.503,2025-06-19,5.5,37.0,-6.171,147.856,"42 km N of Finschhafen, Papua New Guinea",earthquake,0
+2025-06-18 23:08:06.586,2025-06-18,5.9,19.0,42.9403,146.4787,"84 km ESE of Nemuro, Japan",earthquake,0
+2025-06-18 09:49:22.518,2025-06-18,5.8,9.0,14.7728,-94.0883,"123 km SW of El Palmarcito, Mexico",earthquake,0
+2025-06-15 16:35:29.241,2025-06-15,5.6,40.0,-12.1764,-77.4434,"37 km WSW of Callao, Peru",earthquake,0
+2025-06-14 06:43:33.708,2025-06-14,5.6,10.0,-36.5978,-110.5689,southern East Pacific Rise,earthquake,0
+2025-06-14 03:10:59.726,2025-06-14,5.7,10.0,-36.397,-110.8137,southern East Pacific Rise,earthquake,0
+2025-06-13 18:35:14.935,2025-06-13,6.0,35.0,46.1842,153.426,Kuril Islands,earthquake,0
+2025-06-12 06:14:26.535,2025-06-12,5.5,10.0,-63.2081,-164.4234,Pacific-Antarctic Ridge,earthquake,0
+2025-06-12 04:58:26.463,2025-06-12,5.7,10.0,-63.2412,-163.7581,Pacific-Antarctic Ridge,earthquake,0
+2025-06-11 11:00:28.001,2025-06-11,5.9,29.331,23.3659,121.6239,"67 km S of Hualien City, Taiwan",earthquake,0
+2025-06-10 04:07:20.359,2025-06-10,5.6,11.592,-55.3523,-28.0375,South Sandwich Islands region,earthquake,0
+2025-06-08 21:28:08.469,2025-06-08,5.5,10.0,-47.8884,115.9579,western Indian-Antarctic Ridge,earthquake,0
+2025-06-08 21:15:06.129,2025-06-08,5.9,9.0,-47.8029,116.0489,western Indian-Antarctic Ridge,earthquake,0
+2025-06-08 13:08:05.797,2025-06-08,6.3,9.0,4.4852,-73.1248,"15 km NE of Paratebueno, Colombia",earthquake,0
+2025-06-07 23:20:45.671,2025-06-07,6.2,10.0,-47.8272,115.9955,western Indian-Antarctic Ridge,earthquake,0
+2025-06-07 07:33:40.295,2025-06-07,5.5,10.0,-14.9216,66.7948,Mid-Indian Ridge,earthquake,0
+2025-06-06 19:28:30.995,2025-06-06,5.9,359.0,-22.0335,-178.0449,"299 km WSW of Houma, Tonga",earthquake,0
+2025-06-06 17:15:06.807,2025-06-06,6.4,75.0,-26.639,-70.4039,"45 km SW of Diego de Almagro, Chile",earthquake,1
+2025-06-05 00:09:18.730,2025-06-05,5.6,10.0,5.3502,-82.6724,"297 km S of Burica, Panama",earthquake,0
+2025-06-02 23:17:28.209,2025-06-02,5.8,72.0,36.7258,28.1891,"8 km SSW of İçmeler, Turkey",earthquake,0
+2025-06-01 18:51:52.960,2025-06-01,5.8,27.0,41.7431,143.6866,"68 km SSE of Hiroo, Japan",earthquake,0
+2025-05-31 22:26:22.460,2025-05-31,6.2,10.0,-27.8491,-178.1234,Kermadec Islands region,earthquake,0
+2025-05-31 21:21:11.250,2025-05-31,6.0,10.0,-28.1865,-178.5389,Kermadec Islands region,earthquake,0
+2025-05-31 14:28:49.890,2025-05-31,6.1,10.0,-27.7396,-177.9502,Kermadec Islands region,earthquake,0
+2025-05-31 08:37:17.097,2025-05-31,6.0,21.0,42.2705,144.4895,"78 km S of Kushiro, Japan",earthquake,0
+2025-05-30 05:36:38.351,2025-05-30,6.2,10.0,-53.2836,9.1051,southwest of Africa,earthquake,0
+2025-05-28 13:34:13.998,2025-05-28,5.8,28.0,12.7347,144.957,"63 km SSE of Inarajan Village, Guam",earthquake,0
+2025-05-28 08:57:47.561,2025-05-28,5.9,190.0,-14.1835,167.3309,"41 km SW of Sola, Vanuatu",earthquake,0
+2025-05-28 01:30:37.701,2025-05-28,5.8,10.0,19.5611,-109.1593,Revilla Gigedo Islands region,earthquake,0
+2025-05-27 21:59:11.398,2025-05-27,5.8,10.0,19.688,-109.194,Revilla Gigedo Islands region,earthquake,0
+2025-05-26 03:50:25.655,2025-05-26,5.7,105.0,-19.6168,-69.4505,"33 km S of Camiña, Chile",earthquake,0
+2025-05-25 10:49:59.192,2025-05-25,6.0,48.0,-22.8374,-175.8016,"187 km SSW of ‘Ohonua, Tonga",earthquake,0
+2025-05-23 16:33:25.438,2025-05-23,6.1,10.0,-56.5536,147.6655,west of Macquarie Island,earthquake,0
+2025-05-22 19:52:36.892,2025-05-22,5.7,47.0,-3.9908,102.2539,"21 km S of Bengkulu, Indonesia",earthquake,0
+2025-05-22 08:34:36.774,2025-05-22,5.7,10.0,-37.4859,51.3609,South Indian Ocean,earthquake,0
+2025-05-22 03:19:35.518,2025-05-22,6.2,64.0,35.8915,25.9159,"66 km SE of Emporeío, Greece",earthquake,0
+2025-05-20 15:05:59.387,2025-05-20,6.5,16.819,-3.7575,144.8116,"89 km ENE of Angoram, Papua New Guinea",earthquake,1
+2025-05-20 05:11:32.589,2025-05-20,5.6,10.0,35.3444,-36.01,northern Mid-Atlantic Ridge,earthquake,0
+2025-05-17 10:22:14.394,2025-05-17,5.9,101.0,-14.7608,-74.1437,"5 km W of San Pedro, Peru",earthquake,0
+2025-05-15 12:59:19.020,2025-05-15,5.5,10.0,-54.5498,-135.3414,Pacific-Antarctic Ridge,earthquake,0
+2025-05-15 00:50:52.272,2025-05-15,5.9,476.627,-7.136,126.1331,"152 km NNW of Baukau, Timor Leste",earthquake,0
+2025-05-14 04:15:40.513,2025-05-14,6.4,260.0,-18.7126,-175.3343,"142 km W of Neiafu, Tonga",earthquake,0
+2025-05-13 22:51:15.880,2025-05-13,6.0,76.202,35.237,26.9951,"20 km SSE of Fry, Greece",earthquake,0
+2025-05-13 20:43:04.081,2025-05-13,5.9,11.902,18.6822,-107.2678,"240 km SW of La Cruz de Loreto, Mexico",earthquake,0
+2025-05-13 16:52:34.486,2025-05-13,5.6,445.198,27.2228,140.058,"Bonin Islands, Japan region",earthquake,0
+2025-05-11 21:11:22.060,2025-05-11,5.5,9.0,29.0536,87.6068,"126 km W of Rikaze, China",earthquake,0
+2025-05-11 11:22:21.597,2025-05-11,5.9,60.0,-17.6883,168.3085,"5 km N of Port-Vila, Vanuatu",earthquake,0
+2025-05-11 08:57:43.494,2025-05-11,5.7,85.754,3.7925,97.0065,"19 km ENE of Blangpidie, Indonesia",earthquake,0
+2025-05-08 22:01:10.028,2025-05-08,5.7,10.0,-60.5475,160.0246,Macquarie Island region,earthquake,0
+2025-05-06 18:15:10.547,2025-05-06,5.7,10.0,-4.0452,-104.1959,central East Pacific Rise,earthquake,0
+2025-05-06 17:45:31.436,2025-05-06,5.5,102.0,-19.9606,169.4788,"50 km SSE of Isangel, Vanuatu",earthquake,0
+2025-05-05 10:53:27.776,2025-05-05,5.6,27.0,23.909,121.9671,"37 km ESE of Hualien City, Taiwan",earthquake,0
+2025-05-05 08:28:13.833,2025-05-05,5.8,261.0,16.5292,-92.5534,"5 km NNE of Nuevo León, Mexico",earthquake,0
+2025-05-05 03:55:39.960,2025-05-05,6.0,10.0,-35.1429,-107.4203,southern East Pacific Rise,earthquake,0
+2025-05-04 06:58:24.280,2025-05-04,5.63,20.0,18.9858,-64.316,"88 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,0
+2025-05-03 12:51:43.462,2025-05-03,5.9,92.0,0.5053,121.636,"158 km W of Gorontalo, Indonesia",earthquake,0
+2025-05-02 17:59:07.662,2025-05-02,6.4,8.0,-57.304,-67.0168,"289 km SSE of Ushuaia, Argentina",earthquake,1
+2025-05-02 13:10:08.321,2025-05-02,5.6,10.0,-57.121,-67.4986,"262 km SSE of Ushuaia, Argentina",earthquake,0
+2025-05-02 13:09:40.634,2025-05-02,5.7,10.0,-57.2358,-67.2023,"278 km SSE of Ushuaia, Argentina",earthquake,0
+2025-05-02 13:03:16.417,2025-05-02,5.5,10.0,-57.0575,-67.3954,"256 km SSE of Ushuaia, Argentina",earthquake,0
+2025-05-02 12:58:26.014,2025-05-02,7.4,10.0,-56.8094,-68.1019,2025 Drake Passage Earthquake,earthquake,1
+2025-05-02 10:59:19.540,2025-05-02,5.8,43.0,-7.164,156.1376,"118 km SE of Panguna, Papua New Guinea",earthquake,0
+2025-04-29 14:53:37.897,2025-04-29,6.8,18.957,-54.2616,155.6446,Macquarie Island region,earthquake,1
+2025-04-29 13:30:30.110,2025-04-29,5.6,10.0,-28.1396,-175.2966,Kermadec Islands region,earthquake,0
+2025-04-29 13:16:32.562,2025-04-29,6.2,10.595,-48.1824,165.3571,"285 km SW of Bluff, New Zealand",earthquake,0
+2025-04-27 17:18:27.488,2025-04-27,5.6,18.0,19.2068,121.1565,"65 km N of Namuac, Philippines",earthquake,0
+2025-04-27 16:54:25.986,2025-04-27,5.5,20.0,19.2094,121.0904,"66 km N of Claveria, Philippines",earthquake,0
+2025-04-27 09:22:42.704,2025-04-27,5.9,10.0,-56.1563,147.0791,west of Macquarie Island,earthquake,0
+2025-04-25 11:44:52.634,2025-04-25,6.3,18.0,1.0835,-79.5319,"19 km NE of Esmeraldas, Ecuador",earthquake,0
+2025-04-24 22:22:57.397,2025-04-24,5.7,10.0,-46.3555,95.9761,southeast Indian Ridge,earthquake,0
+2025-04-23 09:49:11.631,2025-04-23,6.2,12.736,40.8342,28.1897,"24 km SE of Marmara Ereğlisi, Turkey",earthquake,0
+2025-04-22 16:55:32.564,2025-04-22,5.7,197.0,-13.1236,167.1763,"92 km NNW of Sola, Vanuatu",earthquake,0
+2025-04-22 13:29:08.956,2025-04-22,5.7,199.0,-5.498,146.9905,"135 km N of Lae, Papua New Guinea",earthquake,0
+2025-04-22 10:17:11.888,2025-04-22,6.2,104.0,4.5538,127.831,"271 km SE of Pondaguitan, Philippines",earthquake,0
+2025-04-19 16:55:05.702,2025-04-19,5.5,36.899,-15.1316,-173.5079,"96 km NNE of Hihifo, Tonga",earthquake,0
+2025-04-19 16:11:14.518,2025-04-19,5.9,12.0,5.8328,124.1463,"39 km SW of Malisbeng, Philippines",earthquake,0
+2025-04-19 13:50:22.145,2025-04-19,5.6,10.0,7.2218,-34.3576,central Mid-Atlantic Ridge,earthquake,0
+2025-04-19 06:47:55.932,2025-04-19,5.7,98.0,36.2223,71.2246,"58 km SSW of Ashkāsham, Afghanistan",earthquake,0
+2025-04-18 00:10:18.965,2025-04-18,5.6,137.0,-23.4826,-67.9999,"66 km SSE of San Pedro de Atacama, Chile",earthquake,0
+2025-04-17 00:51:24.547,2025-04-17,5.5,21.676,0.3501,124.8572,"48 km ESE of Modisi, Indonesia",earthquake,0
+2025-04-16 12:41:01.865,2025-04-16,5.6,10.0,-32.4828,-14.2721,southern Mid-Atlantic Ridge,earthquake,0
+2025-04-16 01:42:59.524,2025-04-16,6.6,10.0,-47.8089,99.613,southeast Indian Ridge,earthquake,0
+2025-04-15 23:13:59.048,2025-04-15,5.6,99.0,35.9493,70.5792,"66 km NNW of Pārūn, Afghanistan",earthquake,0
+2025-04-15 21:42:42.326,2025-04-15,5.6,10.0,5.8038,124.2362,"37 km SSW of Maguling, Philippines",earthquake,0
+2025-04-13 20:03:22.841,2025-04-13,6.5,271.0,-25.9815,-178.3309,south of the Fiji Islands,earthquake,1
+2025-04-13 09:13:32.789,2025-04-13,5.9,369.0,48.7331,149.7932,northwest of the Kuril Islands,earthquake,0
+2025-04-13 04:24:00.966,2025-04-13,5.8,8.0,38.8992,70.8325,"42 km ESE of Rasht, Tajikistan",earthquake,0
+2025-04-12 03:47:08.682,2025-04-12,6.1,52.0,-4.7074,153.1423,"104 km ESE of Kokopo, Papua New Guinea",earthquake,0
+2025-04-07 19:49:20.552,2025-04-07,5.8,18.0,2.0388,96.7622,"64 km SE of Sinabang, Indonesia",earthquake,0
+2025-04-05 11:32:09.400,2025-04-05,5.6,24.567,-57.2438,-25.508,South Sandwich Islands region,earthquake,0
+2025-04-05 11:29:12.069,2025-04-05,5.5,27.985,-57.2671,-25.624,South Sandwich Islands region,earthquake,0
+2025-04-05 07:57:09.413,2025-04-05,5.5,10.0,52.488,-32.0879,Reykjanes Ridge,earthquake,0
+2025-04-04 20:04:38.129,2025-04-04,6.9,9.0,-6.3025,151.6257,"184 km ESE of Kimbe, Papua New Guinea",earthquake,1
+2025-04-04 08:01:06.751,2025-04-04,5.6,201.0,-15.6272,-174.4737,"81 km WNW of Hihifo, Tonga",earthquake,0
+2025-04-03 14:09:29.739,2025-04-03,6.9,10.0,52.4538,-32.1071,Reykjanes Ridge,earthquake,1
+2025-04-03 04:18:17.878,2025-04-03,5.5,10.0,-65.1723,179.3367,Balleny Islands region,earthquake,0
+2025-04-02 21:03:40.049,2025-04-02,5.8,44.0,2.1324,126.7258,"149 km WNW of Tobelo, Indonesia",earthquake,0
+2025-04-02 16:26:35.709,2025-04-02,5.5,14.015,53.2407,172.961,"46 km NNW of Attu Station, Alaska",earthquake,1
+2025-04-02 14:03:57.825,2025-04-02,6.1,29.0,30.9792,131.522,"56 km ENE of Nishinoomote, Japan",earthquake,0
+2025-04-02 00:29:22.306,2025-04-02,6.3,10.0,-57.0079,-142.2862,Pacific-Antarctic Ridge,earthquake,0
+2025-04-01 10:15:56.075,2025-04-01,5.7,143.585,-7.4362,128.5286,"207 km NE of Lospalos, Timor Leste",earthquake,0
+2025-03-31 15:54:17.424,2025-03-31,5.6,11.867,-10.0069,119.0489,"67 km SSW of Tambolaka, Indonesia",earthquake,0
+2025-03-30 15:33:49.612,2025-03-30,5.9,27.136,-20.2249,-174.0813,"53 km SSE of Pangai, Tonga",earthquake,0
+2025-03-30 15:04:54.834,2025-03-30,6.2,17.0,-20.3816,-174.0115,"72 km SSE of Pangai, Tonga",earthquake,0
+2025-03-30 12:18:50.362,2025-03-30,7.0,29.0,-20.3036,-174.0718,"61 km SSE of Pangai, Tonga",earthquake,1
+2025-03-28 17:17:27.868,2025-03-28,6.6,12.323,0.7561,-29.7635,central Mid-Atlantic Ridge,earthquake,0
+2025-03-28 06:32:04.777,2025-03-28,6.7,10.0,21.6975,95.969,Burma (Myanmar),earthquake,0
+2025-03-28 06:20:52.715,2025-03-28,7.7,10.0,22.011,95.9363,"2025 Mandalay, Burma (Myanmar) Earthquake",earthquake,0
+2025-03-28 01:20:04.771,2025-03-28,5.7,37.0,-19.2093,168.8176,"61 km NW of Isangel, Vanuatu",earthquake,0
+2025-03-28 00:34:21.875,2025-03-28,6.1,10.0,0.7055,-29.665,central Mid-Atlantic Ridge,earthquake,0
+2025-03-27 00:41:25.987,2025-03-27,5.7,123.592,-56.1929,-27.4264,South Sandwich Islands region,earthquake,0
+2025-03-25 01:43:11.796,2025-03-25,6.7,21.0,-46.7305,165.8632,"170 km WSW of Riverton, New Zealand",earthquake,1
+2025-03-22 09:49:21.891,2025-03-22,5.6,20.0,51.1545,-176.1067,"88 km SSE of Adak, Alaska",earthquake,1
+2025-03-22 01:15:13.647,2025-03-22,5.5,347.281,-26.0219,-178.7644,south of the Fiji Islands,earthquake,0
+2025-03-21 14:58:28.059,2025-03-21,5.9,26.674,51.1563,-176.1097,"87 km SSE of Adak, Alaska",earthquake,0
+2025-03-21 14:53:41.774,2025-03-21,6.2,17.0,51.1558,-176.0703,"88 km SSE of Adak, Alaska",earthquake,1
+2025-03-21 14:50:51.364,2025-03-21,6.2,10.0,6.9863,-82.4666,"124 km SSE of Burica, Panama",earthquake,1
+2025-03-20 06:30:19.231,2025-03-20,5.7,24.071,-60.4288,-27.2551,South Sandwich Islands region,earthquake,0
+2025-03-20 04:28:51.980,2025-03-20,5.6,17.0,51.1094,-176.0641,"93 km SSE of Adak, Alaska",earthquake,1
+2025-03-18 22:52:34.157,2025-03-18,5.6,36.839,-55.378,-28.9052,South Sandwich Islands region,earthquake,0
+2025-03-17 17:32:18.505,2025-03-17,5.8,18.0,-2.831,130.1617,"142 km ENE of Masohi, Indonesia",earthquake,0
+2025-03-17 09:50:24.150,2025-03-17,5.5,10.0,19.4443,-109.0828,Revilla Gigedo Islands region,earthquake,0
+2025-03-15 03:19:27.274,2025-03-15,5.6,62.0,17.3361,-97.4253,"5 km W of San Pedro Tidaá, Mexico",earthquake,0
+2025-03-14 23:42:32.269,2025-03-14,5.9,13.0,-55.8177,-27.07,South Sandwich Islands region,earthquake,0
+2025-03-12 15:09:44.490,2025-03-12,5.5,9.0,8.3112,127.3806,"105 km E of Barcelona, Philippines",earthquake,0
+2025-03-12 05:42:11.676,2025-03-12,6.0,23.0,6.9701,92.5548,"Nicobar Islands, India region",earthquake,0
+2025-03-11 14:08:08.434,2025-03-11,5.6,648.298,-10.479,-70.6352,"126 km WNW of Iñapari, Peru",earthquake,0
+2025-03-10 02:33:14.609,2025-03-10,6.5,10.0,71.176,-8.1733,"34 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,1
+2025-03-08 23:42:55.012,2025-03-08,5.7,26.0,28.7303,130.2922,"74 km ENE of Tatsugō, Japan",earthquake,0
+2025-03-08 18:54:04.724,2025-03-08,5.7,24.0,28.6865,130.192,"63 km ENE of Tatsugō, Japan",earthquake,0
+2025-03-06 16:21:39.333,2025-03-06,6.0,96.0,-23.3399,-69.0636,"98 km S of Calama, Chile",earthquake,0
+2025-03-05 09:43:12.169,2025-03-05,5.5,28.681,15.6001,-95.0945,"60 km SSE of Santa Gertrudis Miramar, Mexico",earthquake,0
+2025-02-28 21:58:38.554,2025-02-28,5.6,126.0,-6.0227,130.652,"236 km W of Tual, Indonesia",earthquake,0
+2025-02-26 16:15:29.941,2025-02-26,5.8,8.142,55.4821,164.5402,"153 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,0
+2025-02-26 05:53:24.392,2025-02-26,5.8,388.0,33.6039,136.3654,"38 km ESE of Shingū, Japan",earthquake,0
+2025-02-25 22:55:45.917,2025-02-25,6.1,21.726,0.3994,124.8407,"45 km E of Modisi, Indonesia",earthquake,0
+2025-02-25 05:48:55.100,2025-02-25,5.85,46.0,19.4565,-68.0846,"102 km NNE of Punta Cana, Dominican Republic",earthquake,0
+2025-02-23 18:16:18.073,2025-02-23,6.0,36.0,-11.3195,166.2902,"85 km SE of Lata, Solomon Islands",earthquake,0
+2025-02-23 01:31:52.085,2025-02-23,5.6,35.0,-7.4856,155.8717,"126 km WNW of Gizo, Solomon Islands",earthquake,0
+2025-02-20 10:31:20.780,2025-02-20,5.5,111.0,-15.3291,-173.9471,"71 km NNW of Hihifo, Tonga",earthquake,0
+2025-02-19 02:49:44.019,2025-02-19,5.5,10.0,-9.0969,152.7728,"285 km NE of Samarai, Papua New Guinea",earthquake,0
+2025-02-18 23:39:10.674,2025-02-18,5.7,13.0,-3.3656,131.0386,"148 km WSW of Fakfak, Indonesia",earthquake,0
+2025-02-18 17:18:48.127,2025-02-18,5.6,31.0,-26.2533,-70.9825,"94 km W of Diego de Almagro, Chile",earthquake,0
+2025-02-17 04:30:56.551,2025-02-17,5.5,10.0,-15.9621,-75.1169,"66 km S of San Juan, Peru",earthquake,0
+2025-02-15 01:48:11.119,2025-02-15,5.7,13.0,49.9991,88.2237,"32 km W of Kosh-Agach, Russia",earthquake,0
+2025-02-14 20:28:25.423,2025-02-14,5.9,25.0,8.9453,39.9058,"5 km NNW of Metahāra, Ethiopia",earthquake,0
+2025-02-13 23:59:27.899,2025-02-13,5.7,13.3,55.6151,-154.9176,"155 km SSW of Akhiok, Alaska",earthquake,1
+2025-02-10 00:09:42.753,2025-02-10,5.9,18.0,-17.5011,167.8757,"53 km WNW of Port-Vila, Vanuatu",earthquake,0
+2025-02-08 23:23:14.697,2025-02-08,7.6,14.326,17.6506,-82.395,"210 km SSW of George Town, Cayman Islands",earthquake,1
+2025-02-07 10:27:01.952,2025-02-07,5.9,65.0,-23.9351,-176.2264,south of the Fiji Islands,earthquake,0
+2025-02-07 04:31:58.218,2025-02-07,5.8,21.0,-9.7073,97.5703,"southwest of Sumatra, Indonesia",earthquake,0
+2025-02-05 07:01:18.108,2025-02-05,5.6,58.159,13.9242,-91.5982,"44 km SW of Nueva Concepción, Guatemala",earthquake,0
+2025-02-05 03:12:30.192,2025-02-05,5.5,99.0,1.6173,127.118,"96 km NNW of Ternate, Indonesia",earthquake,0
+2025-02-04 01:40:33.905,2025-02-04,5.7,10.0,-38.8932,-92.3973,West Chile Rise,earthquake,0
+2025-02-03 21:35:51.094,2025-02-03,5.9,103.0,3.0383,128.2254,"146 km N of Tobelo, Indonesia",earthquake,0
+2025-02-03 13:02:17.933,2025-02-03,5.5,10.0,-22.8251,171.3889,southeast of the Loyalty Islands,earthquake,0
+2025-01-31 23:02:28.845,2025-01-31,5.5,8.0,-0.8609,-78.0956,"32 km W of Archidona, Ecuador",earthquake,0
+2025-01-31 11:03:41.859,2025-01-31,5.7,53.0,3.2918,97.1235,"58 km SSE of Blangpidie, Indonesia",earthquake,0
+2025-01-31 09:04:50.646,2025-01-31,5.7,10.0,0.4304,-25.1449,central Mid-Atlantic Ridge,earthquake,0
+2025-01-28 06:52:38.866,2025-01-28,5.8,13.0,-28.0098,-176.486,Kermadec Islands region,earthquake,0
+2025-01-28 00:59:48.054,2025-01-28,5.6,10.0,-41.1978,-90.224,southeast of Easter Island,earthquake,0
+2025-01-26 22:39:13.301,2025-01-26,5.6,59.0,53.2062,-167.2003,"86 km SSW of Unalaska, Alaska",earthquake,1
+2025-01-24 18:26:51.860,2025-01-24,5.7,10.0,-3.9381,150.7581,"150 km S of Kavieng, Papua New Guinea",earthquake,0
+2025-01-23 11:14:02.382,2025-01-23,5.6,598.0,-12.7706,168.8952,"190 km NE of Sola, Vanuatu",earthquake,0
+2025-01-22 23:39:46.093,2025-01-22,5.7,9.0,10.0899,125.1492,"3 km NNW of San Francisco, Philippines",earthquake,0
+2025-01-21 11:15:29.924,2025-01-21,5.5,10.0,-3.7665,151.551,"83 km NW of Rabaul, Papua New Guinea",earthquake,0
+2025-01-21 06:05:14.046,2025-01-21,5.5,10.0,-27.5196,-13.4234,southern Mid-Atlantic Ridge,earthquake,0
+2025-01-21 05:47:50.406,2025-01-21,5.5,130.0,13.4452,144.3602,"33 km WNW of Agat Village, Guam",earthquake,0
+2025-01-20 16:17:26.812,2025-01-20,6.0,16.0,23.1816,120.5448,"10 km NE of Yujing, Taiwan",earthquake,0
+2025-01-20 08:38:42.816,2025-01-20,5.5,36.358,-11.2826,165.8611,"62 km S of Lata, Solomon Islands",earthquake,0
+2025-01-15 21:37:01.080,2025-01-15,5.7,42.0,-10.8585,165.9976,"26 km SE of Lata, Solomon Islands",earthquake,0
+2025-01-14 19:02:04.457,2025-01-14,5.6,10.0,7.2664,-35.4561,central Mid-Atlantic Ridge,earthquake,0
+2025-01-13 12:19:32.252,2025-01-13,6.8,39.0,31.8326,131.5525,"15 km SE of Miyazaki, Japan",earthquake,1
+2025-01-12 08:32:49.944,2025-01-12,6.2,39.0,18.5019,-103.3631,"18 km SE of Aquila, Mexico",earthquake,0
+2025-01-10 08:14:32.949,2025-01-10,5.6,18.0,5.9461,-77.4683,"31 km SSW of Bahía Solano, Colombia",earthquake,0
+2025-01-09 16:31:45.323,2025-01-09,5.8,95.0,13.599,-89.7339,"10 km E of Acajutla, El Salvador",earthquake,0
+2025-01-08 07:44:22.866,2025-01-08,5.5,10.0,34.8006,97.4685,"Southern Qinghai, China",earthquake,0
+2025-01-07 08:31:30.553,2025-01-07,5.6,358.0,31.6194,138.4289,"Izu Islands, Japan region",earthquake,0
+2025-01-07 01:05:16.734,2025-01-07,7.1,10.0,28.6036,87.3781,2025 Southern Tibetan Plateau Earthquake,earthquake,0
+2025-01-05 17:18:45.784,2025-01-05,6.2,46.0,13.0007,-89.1775,"56 km SSE of La Libertad, El Salvador",earthquake,0
+2025-01-04 00:52:21.078,2025-01-04,5.7,8.0,9.4591,40.1219,"52 km N of Āwash, Ethiopia",earthquake,0
+2025-01-03 17:01:46.324,2025-01-03,5.5,10.0,9.3575,40.3457,"45 km NNE of Āwash, Ethiopia",earthquake,0
+2025-01-03 02:33:17.419,2025-01-03,5.5,86.0,-58.7696,-25.9578,South Sandwich Islands region,earthquake,0
+2025-01-02 20:43:35.253,2025-01-02,6.1,99.0,-21.7109,-69.1069,"84 km NNW of Calama, Chile",earthquake,0
+2025-01-02 02:54:17.931,2025-01-02,5.5,10.0,-62.3342,155.7048,Balleny Islands region,earthquake,0
+2025-01-01 13:48:24.752,2025-01-01,6.1,70.0,-56.4095,-26.7059,South Sandwich Islands region,earthquake,0
+2025-01-01 04:39:18.208,2025-01-01,5.5,22.0,-20.9273,169.3819,"153 km S of Isangel, Vanuatu",earthquake,0
