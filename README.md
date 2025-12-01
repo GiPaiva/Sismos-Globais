@@ -163,5 +163,6 @@ https://redis.io/blog/running-redis-on-google-colab/
 ## ✨ 9. Autora
 
 **Giovanna Paiva Alves** — Ciência da Computação 🎓
+**Matheus Sanchez Duda** — Ciência da Computação 🎓
 
 Sempre aberta a sugestões e melhorias 😊
